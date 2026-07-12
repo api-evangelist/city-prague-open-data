@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: http://opendata.praha.eu/en
 common:
+  - type: DomainSecurity
+    url: security/city-prague-open-data-domain-security.yml
   - type: Website
     url: http://opendata.praha.eu/en
   - type: PublicAPIsListing
