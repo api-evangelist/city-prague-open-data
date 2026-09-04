@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'http://opendata.praha.eu/en', status: 307, note: 'declared website redirects to https://lkod.cz/catalog/praha — a different registrable domain (praha.eu -> lkod.cz), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/city-prague-open-data.png
 name: City, Prague Open Data
 description: "Prague(CZ) City Open Data"
