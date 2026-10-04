@@ -41,7 +41,6 @@ apis:
   - name: City, Prague Open Data
     description: "Prague(CZ) City Open Data"
     humanURL: http://opendata.praha.eu/en
-    baseURL: http://opendata.praha.eu/en
     tags:
       - Government
     properties:
